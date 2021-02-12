@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task05_Generic_Count_Method_String\\Task05_Generic_Count_Method_String.csproj",
-      "projectName": "Task05_Generic_Count_Method_String",
-      "projectPath": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task05_Generic_Count_Method_String\\Task05_Generic_Count_Method_String.csproj",
+      "projectUniqueName": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task06_Generic_Count_Method_Doubles\\Task06_Generic_Count_Method_Doubles.csproj",
+      "projectName": "Task06_Generic_Count_Method_Doubles",
+      "projectPath": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task06_Generic_Count_Method_Doubles\\Task06_Generic_Count_Method_Doubles.csproj",
       "packagesPath": "C:\\Users\\Kiril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task05_Generic_Count_Method_String\\obj\\",
+      "outputPath": "C:\\Users\\Kiril\\Advanced_CSharp\\08_CSharp-Advanced-Generics-Exercises\\Task06_Generic_Count_Method_Doubles\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",

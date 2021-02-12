@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Task05_Generic_Count_Method_String
+namespace Task06_Generic_Count_Method_Doubles
 {
     public class GenericElement<T>
         where T : IComparable
@@ -13,11 +13,6 @@ namespace Task05_Generic_Count_Method_String
             Value = value;
         }
         public T Value { get; set; }
-        /*
-        public override string ToString()
-        {
-            return $"{Value.GetType().FullName.ToString()}: {Value}";
-        }
-        */
+        
     }
 }

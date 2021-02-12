@@ -1,0 +1,12 @@
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.exe
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.deps.json
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.runtimeconfig.json
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.runtimeconfig.dev.json
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.dll
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\bin\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.pdb
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.AssemblyInfoInputs.cache
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.AssemblyInfo.cs
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.csproj.CoreCompileInputs.cache
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.dll
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.pdb
+c:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Таск01_Generic_Box_of_String\obj\Debug\netcoreapp3.1\Task01_Generic_Box_of_String.genruntimeconfig.cache

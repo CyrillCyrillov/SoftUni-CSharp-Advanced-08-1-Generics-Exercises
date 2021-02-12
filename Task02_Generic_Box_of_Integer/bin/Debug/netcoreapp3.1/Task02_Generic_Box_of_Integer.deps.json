@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task02_Generic_Box_of_Integer/1.0.0": {
+        "runtime": {
+          "Task02_Generic_Box_of_Integer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task02_Generic_Box_of_Integer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

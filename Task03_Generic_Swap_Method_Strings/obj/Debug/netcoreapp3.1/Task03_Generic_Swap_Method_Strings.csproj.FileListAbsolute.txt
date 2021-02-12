@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.exe
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.deps.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.dll
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\bin\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.pdb
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.dll
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.pdb
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task03_Generic_Swap_Method_Strings\obj\Debug\netcoreapp3.1\Task03_Generic_Swap_Method_Strings.genruntimeconfig.cache

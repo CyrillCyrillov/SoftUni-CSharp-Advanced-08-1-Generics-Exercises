@@ -16,20 +16,19 @@ namespace Task05_Generic_Count_Method_String
                 custumList.Add(new GenericElement<string>(Console.ReadLine()));
             }
 
-            string toComparison = Console.ReadLine();
+
+            GenericElement<string> toComparison = new GenericElement<string>(Console.ReadLine());
 
             Console.WriteLine(CountBiger(custumList, toComparison));
-
-            
         }
 
-        private static int CountBiger<T>(List<GenericElement<T>> custumList, string toComparison)
+        private static int CountBiger<T>(List<GenericElement<T>> custumList, GenericElement<T> toComparison)
             where T : IComparable
         {
             int count = 0;
             foreach (GenericElement<T> element in custumList)
             {
-                if(element.Value.CompareTo(toComparison) > 0)
+                if(element.Value.CompareTo(toComparison.Value) > 0)
                 {
                     count++;
                 }

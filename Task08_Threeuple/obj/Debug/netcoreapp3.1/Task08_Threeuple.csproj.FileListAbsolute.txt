@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.exe
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.deps.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.dll
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\bin\Debug\netcoreapp3.1\Task08_Threeuple.pdb
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.dll
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.pdb
+C:\Users\Kiril\Advanced_CSharp\08_CSharp-Advanced-Generics-Exercises\Task08_Threeuple\obj\Debug\netcoreapp3.1\Task08_Threeuple.genruntimeconfig.cache
